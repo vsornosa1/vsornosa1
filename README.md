@@ -21,7 +21,7 @@ I'm a 3rd year Computer science student, currently studying a major in IT & Netw
 *   ✉️  You can contact me at [vsornosarisen@gmail.com](mailto:vsornosarisen@gmail.com)
 *   🚀  I'm currently working on [Bounsel](http://bounsel.com/)
 *   🧠  I'm learning Vue JS (app development) & React Native (mobile dev)
-*   ⚡  Although software has been most of my experience, my hidden passion lies on the cybersecurity field!### Skills
+*   ⚡  Although software has been most of my experience, my hidden passion lies on the cybersecurity field!
 
 ### Skills
 <p align="left">
