@@ -19,9 +19,9 @@ I'm a 3rd year Computer science student, currently studying a major in IT & Netw
 
 *   🌍  I'm based in Valencia, Spain
 *   ✉️  You can contact me at [vsornosarisen@gmail.com](mailto:vsornosarisen@gmail.com)
-*   🚀  I'm currently working on [Bounsel](http://bounsel.com/)
-*   🧠  I'm learning Vue JS (app development) & React Native (mobile dev)
-*   ⚡  Although software has been most of my experience, my hidden passion lies on the cybersecurity field!
+*   🚀  I'm currently working at [United Nations ICC](https://www.unicc.org/)
+*   🧠  I'm learning cool stuff on Vue JS (app development) & React Native (mobile dev)
+*   ⚡  Although software has been most of my experience, my hidden passion lies on the cybersecurity field (I'm eJPT certified and currently aiming for OSCP)!
 
 ### Skills
 <p align="left">
