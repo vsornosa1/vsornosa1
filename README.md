@@ -15,7 +15,7 @@
 Hi! 👋 My name is Vicent Sornosa and I'm a full stack developer
 ===============================
 
-I'm a 3rd year Computer science student, currently studying a major in IT & Networks, and a passionate self-taught learner on software development. Frameworks wise, I started taking a MERN Udemy course on React, which was quite nice indeed, but weeks after I began working for Hyperloop UPV using Angular as the main app framework. Currently, at my internship at Bounsel, I am working with Vue JS (which actually, is the best one of them all (in my opinion ;))
+I'm a 4th year Computer science student, currently studying a major in IT & Networks, and a passionate self-taught learner on software development. Frameworks wise, I started taking a MERN Udemy course on React, which was quite nice indeed, but weeks after I began working for Hyperloop UPV using Angular as the main app framework. Currently, at my internship at Bounsel, I am working with Vue JS (which actually, is the best one of them all (in my opinion ;))
 
 *   🌍  I'm based in Valencia, Spain
 *   ✉️  You can contact me at [vsornosarisen@gmail.com](mailto:vsornosarisen@gmail.com)
