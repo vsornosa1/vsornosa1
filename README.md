@@ -18,7 +18,7 @@ Hi! 👋 My name is Vicent Sornosa and I'm a full stack developer
 Computer science bachelor graduate, after studying a major in IT & Networks - I'm a passionate, self-taught learner on software development. Frameworks-wise, I started taking a MERN Udemy course on React, which was quite nice indeed and decided to code my personal portfolio on React, but weeks after I began working for Hyperloop UPV using Angular as the main app framework. At my internship at Bounsel, I mainly worked with Vue JS (which actually, is the best one of them all (in my opinion ;)).
 
 *   🌍  I'm based in Valencia, Spain
-*   ✉️  You can contact me at [vsornosarisen@gmail.com](mailto:vsornosarisen@gmail.com)
+*   ✉️  You can contact me at [vicentsornosa@gmail.com](mailto:vicentsornosa@gmail.com)
 *   🚀  I'm currently working at [United Nations ICC](https://www.unicc.org/)
 *   🧠  I'm learning cool stuff on Vue JS (app development) & React Native (mobile dev)
 *   ⚡  Although software has been most of my experience, my hidden passion lies on the cybersecurity field (I'm eJPT certified and currently aiming for OSCP)!
