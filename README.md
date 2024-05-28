@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=github&style=flat-square&color=blue" alt="Github profile views"/>
 </div>
 
-Hi! 👋 My name is Vicent Sornosa and I'm a full stack developer
+Hi! 👋 My name is Vicent Sornosa and I'm a full stack engineer
 ===============================
 
 Computer Science BSc graduate, after studying a major in IT & Networks, and currently enrolled in an MSc in AI - I'm a passionate, self-taught learner on software development. Frameworks-wise, I started taking a MERN Udemy course on React, which was quite nice indeed and decided to code my personal portfolio on React, but weeks after I began working for Hyperloop UPV using Angular as the main app framework. At my internship at Bounsel, I mainly worked with Vue JS (which actually, is the best one of them all (in my opinion ;)).
