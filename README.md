@@ -121,17 +121,11 @@ CompSci BSc (major in IT & Networks) and AI MSc graduate - I'm a passionate, sel
 
 #### Cybersecurity
 <p align="left">
-  <a href="https://owasp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" width="36" height="36" alt="OWASP" />
-  </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="36" height="36" alt="Kali Linux" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/burpsuite.svg" width="36" height="36" alt="Burp Suite" />
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="36" height="36" alt="Wireshark" />
   </a>
 </p>
   
