@@ -18,8 +18,8 @@ Hi! 👋 My name is Vicent Sornosa and I'm an IT Systems Engineer
 CompSci BSc (major in IT & Networks) and AI MSc graduate - I'm a passionate, self-taught learner on all IT related. Back in the old days (I was 14) I coded a CLI-based CRM in Python2, and after 10 years and (imo) after many socially impacting projects, I am now passionate on Agentic Engineering and how we can use models to improve everyone's lives a little.
 *   🌍  I'm based in the best city of the globe: Valencia, Spain
 *   ✉️  You can contact me at [vicentsornosa@gmail.com](mailto:vicentsornosa@gmail.com)
-*   🚀  I'm currently working at [United Nations ICC](https://www.unicc.org/)
-*   🧠  I'm learning cool stuff on Vue JS (app development) & React Native (mobile dev)
+*   🚀  Crrently working at [United Nations ICC](https://www.unicc.org/)
+*   🧠  I'm learning cool stuff on how to plan-build-test-ship faster and with better maintainability.
 *   ⚡  Although software has been most of my experience, my hidden passion lies on the cybersecurity field (I'm eJPT certified and currently aiming for OSCP)!
 
 ### Skills
