@@ -146,8 +146,8 @@ CompSci BSc (major in IT & Networks) and AI MSc graduate - I'm a passionate, sel
     <a href="https://github.com/vsornosa1/etsinf3" align="left">
         <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsornosa1&repo=etsinf3&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
-    <a href="https://github.com/vsornosa1/mercadonapp" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsornosa1&repo=mercadonapp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <a href="https://github.com/vsornosa1/carrito" align="right">
+        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vsornosa1&repo=carrito&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
     </a>
 </div>
 <br />
